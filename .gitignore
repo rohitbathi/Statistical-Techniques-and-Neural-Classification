@@ -1,6 +1,5 @@
 *.pages
 *.docx
 *.pdf
-*.ipynb
 data/
 __pycache__/
