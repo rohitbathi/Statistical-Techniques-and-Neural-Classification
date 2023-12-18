@@ -1,5 +1,7 @@
+*.txt
+.DS_Store
 *.pages
 *.docx
-*.pdf
 data/
+data_files/
 __pycache__/
