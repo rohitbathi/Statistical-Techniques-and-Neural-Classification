@@ -1,7 +1,7 @@
 # Statistical Learning Techniques and Neural Network-Based Digit Classification
 
 ## Overview
-This README documents a two-part course project focusing on statistical learning and pattern recognition techniques using neural networks.
+This project focuses on a two-part course project focusing on statistical learning and pattern recognition techniques using neural networks.
 
 ## Part 1: Classification of MNIST Digits 5 & 6
 ### Objective
